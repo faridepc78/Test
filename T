@@ -1,0 +1,1 @@
+vless://4e5067bb-9253-414a-956d-bcf63638758c@dr2.speedmeter.top:2056?path=%2Fdl.php%3D67&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dlserver.anizh.ir&fp=chrome&type=xhttp&sni=dlserver.anizh.ir#%F0%9F%A6%B8%E2%80%8D%E2%99%82%EF%B8%8F%20%287103735735_878%29%20-%20S1
